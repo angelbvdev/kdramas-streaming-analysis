@@ -1,4 +1,4 @@
-#Cantidad vs Calidad en K-dramas: Análisis Comparativo de Plataformas de Streaming
+## Cantidad vs Calidad en K-dramas: Análisis Comparativo de Plataformas de Streaming
 
 Este proyecto analiza la relación entre **cantidad de títulos** y **calidad promedio (RatingScore)** de K-dramas en distintas plataformas de streaming, usando datos extraídos de [KDramaList](https://kdramalist.com).
 
